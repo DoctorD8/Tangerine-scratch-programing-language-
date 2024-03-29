@@ -1,7 +1,25 @@
 Hello I am the creator of tangerine and for this I will be your turor for all the different actions/events that this language contains and even some scripts! Well lets do this!
 
-basic rules:
+basic propperties:
+-semicolons/slashes:
+if a function only takes 1 line of code then you put a semicolon to end it like this
+player.ineteract;
+If there more than 1 line like this
+Print.
+"Hello World!"/
+then you end with a slash.
 
+basic controls:
+-right arrow:
+lets you type another line
+-left arrow:
+deletes the last line
+-Run button:
+runs your proggram
+-stop button:
+stops program
+-clean button:
+stops program and deletes all your program
 
 Actions:
 -print:
@@ -76,3 +94,41 @@ this right here shows no quotations because it behave as such as a variable.
 
 If statments:
 -If statments:
+if.
+1
+"1"
+The "if." part is the if. statment being used and the first 1 is refferencing a variable and the "1" is the number 1 so
+if.
+"1"
+"2"
+function/
+the function will not activate because 1 and 2 are not equal
+var.
+1/
+if.print.
+1
+"1"
+"Hello World!"/
+this print function will activate because variable 1 equals 1 and the seconds value is 1 so it will work and print Hello World!
+-if.print:
+if.print is the if function that when the values equal eachother it prints what you tell it to
+if.print.
+"1"
+"1"
+"Hello World!"/
+this would print Hello World! due to how 1=1 is true
+-if.var:
+if.var is a if statment but when equal is creates a new variable in the value you tell it
+if.var.
+"1"
+"1"
+1/
+this will work because 1=1 is true so it will make a new variable with the value of 1
+-if.var.change:
+this is like the var.change. line but instead now its in a if equal statment
+if.var.change.
+"1"
+"1"
+1
+1/
+This will work because 1=1 is true and the 3rd 1 is which variable and the last 1 is the new value
