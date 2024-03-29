@@ -1,0 +1,78 @@
+Hello I am the creator of tangerine and for this I will be your turor for all the different actions/events that this language contains and even some scripts! Well lets do this!
+
+basic rules:
+
+
+Actions:
+-print:
+Well lets get started with the most simple of the scripts that we could do! the print fucntion and here is a example of it being used
+Print.
+"Hello World!"/
+Boom! now our outcome script when we run the script should say what you put in the quotes! Its pretty simple!
+-Variale:
+Well when it comes to variables there are 2 functions! the create variable action and the change variable action, lets begin with the creation of variables! So the basic script we cans use is
+Var.
+1/
+The 1 next to the slash is the variables value and you might wonder where you make the variables name... well every variable is numbered by what came before and after so look at this script
+var.
+1/
+var.
+1/
+print.
+2/
+So both variable functions make it with the same value... but which one is the print fucntion refferencing? well the second fucntion is what its referencing because the second fucntion came 2nd so it shall be dubbed "2"
+Now lets move but... WAIT! Whats that I see?! is there quotes around the 2 in the print function? yup thats right! in every script but the create and change value variable scripts use quotations for there values unless refferencing variables. if refferemcing a variables you just put the name of the variable with any quotation marks
+Phew! that was a mouthfull! now onto changing variable`s values!now il present another script!
+var.
+0/
+var.change.
+1
+1/
+Now you know the var. but the var.change may be a little confusing. so lets break it down! so var.change. is what says what function it i then the first value is what variable is changing values, then the second value is the variable`s new value, see not that hard!
+so now I will present a problem for you to solve!
+What value will be printed out?
+var.
+1/
+var.
+3/
+var.
+7/
+var.change.
+2
+1/
+var.change.
+1
+3/
+var.change.
+3
+2/
+print.
+2/
+
+A.)7
+B.)1
+C.)3
+D.)all of the above
+E.)none of the above
+
+
+
+
+
+
+If you had chosen B you would be correct!
+
+
+
+Inputs:
+-Player input:
+
+So there are 2 parts to this! 1rst is a special little script called the player interaction script and here it is
+player.interact;
+The script makes the user interact by typing something into a textbox then submiting it which then will label the value Player_answer which you can use for things like the print function
+print.
+Player_answer/
+this right here shows no quotations because it behave as such as a variable.
+
+If statments:
+-If statments:
