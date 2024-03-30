@@ -132,3 +132,9 @@ if.var.change.
 1
 1/
 This will work because 1=1 is true and the 3rd 1 is which variable and the last 1 is the new value
+-if.player.interact:
+this is a basic if statment but its for if its equal then it will cause a player interact statment
+if.player.ineteract.
+"1"
+"1"/
+you know the whole spiel about now about 1s equaling eachother
