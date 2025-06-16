@@ -20,6 +20,10 @@ runs your proggram
 stops program
 -clean button:
 stops program and deletes all your program
+-save code:
+press S
+-load code:
+press L
 
 Actions:
 -print:
