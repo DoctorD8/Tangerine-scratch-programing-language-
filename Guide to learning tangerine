@@ -70,6 +70,18 @@ var.change.
 2/
 print.
 2/
+-clear
+the clear command has 2 different variants:
+Clear.
+[line number]/
+
+and
+
+clear.all/
+
+these actions will delete outcome lines(what the player interacts with)
+
+using clear.all/ will delete all of outcome and the other you can delete specific lines.
 
 A.)7
 B.)1
